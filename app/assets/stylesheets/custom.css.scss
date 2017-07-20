@@ -36,9 +36,18 @@ background-size: cover;
   font-weight: bold;
 }
 
+.description{
+  margin-top: 0;
+}
+
 .btn-xlarge {
  font-size: 1.7em;
 background-color: #ff9999;
+}
+
+.article-action{
+  border-top: 1px solid #666666 ;
+  padding-top: 5px;
 }
 
 footer {
